@@ -1,1 +1,1 @@
-** Personal kitty terminal config settings for Arch Linux OS **
+**Personal kitty terminal config settings for Arch Linux OS**
