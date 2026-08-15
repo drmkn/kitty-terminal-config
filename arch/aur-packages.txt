@@ -1,0 +1,7 @@
+amdgpu-install
+brave-bin
+cursor-bin
+debtap
+etcher-bin
+yay
+yay-debug
